@@ -1,7 +1,1 @@
-*
-!.github\workflows\release.yml
-!.gitattributes
-!.gitignore
-!LICENSE
-!README.md
-
+**/sync.ffs_db

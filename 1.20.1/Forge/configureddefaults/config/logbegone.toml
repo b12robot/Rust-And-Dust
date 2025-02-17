@@ -1,0 +1,5 @@
+
+[logbegone]
+	phrases = ["Failed to process update information", "Skipped loading logo file from", "Failed to load banner image for", "Unexpected annotation was found.", "Couldn't parse", "Failed to parse resource conditions", "Calling server config when it is not yet available!", "Parsing error loading", "Unable to decode loot conditions", "Exception caught when registering", "Failed to resolve uniform inPaleGarden", "########## GL ERROR ##########", "@ Render", "65539: Invalid key"]
+	regex = []
+
